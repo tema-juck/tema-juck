@@ -59,15 +59,14 @@
 
 <h3 align="left">🔥   My Stats</h3>
 
-<a href="http://www.github.com/tema-juck">
+<a href="http://www.github.com/tema-juck" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tema-juck&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="tema-juck's GitHub stats" />
 </a>
 
-<!-- 
-<a href="https://github.com/tema-juck" align="left">
+<a href="https://github.com/tema-juck" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tema-juck&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
--->
+
 ###
 
 <div align="center">
