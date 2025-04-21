@@ -42,15 +42,15 @@
 <p align="left">
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+    <img src="https://github.com/user-attachments/assets/537a1ebd-dbec-44e0-b1c0-f6c6b3c06725" width="48" height="48" alt="Git" />
   </a>
   
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+    <img src="https://github.com/user-attachments/assets/8fbee69d-ac1f-4108-9355-4b29b6299daf" width="48" height="48" alt="Java" />
   </a>
   
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
+    <img src="https://github.com/user-attachments/assets/eb7bc184-4b1e-43a2-8f5d-76bb070ddc89" width="48" height="48" alt="VS Code" />
   </a>
   
 </p>
