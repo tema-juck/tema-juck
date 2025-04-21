@@ -3,7 +3,7 @@
 <h1 align="center">𝕴𝖙'𝖘 𝖒𝖊<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>𝕯𝖆𝖓𝖎𝖊𝖑!</h1>
 
 <div align="center">
-  <img height="400" width="800" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="400" width="800" src="assets/8351160.gif"  />
 </div>
 
 <h3 align="center">ᒍᑌᑎIOᖇ ᒍᗩᐯᗩ ᗪEᐯEᒪOᑭEᖇ</h3>
