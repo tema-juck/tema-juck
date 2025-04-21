@@ -1,10 +1,10 @@
 <br clear="both">
 
+<h1 align="center">𝕴𝖙'𝖘 𝖒𝖊<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>𝕯𝖆𝖓𝖎𝖊𝖑!</h1>
+
 <div align="center">
   <img height="400" width="800" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
-
-<h1 align="center">𝕴𝖙'𝖘 𝖒𝖊<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>𝕯𝖆𝖓𝖎𝖊𝖑!</h1>
 
 <h3 align="center">ᒍᑌᑎIOᖇ ᒍᗩᐯᗩ ᗪEᐯEᒪOᑭEᖇ</h3>
 
@@ -20,10 +20,10 @@
   
 </div>
 
-
+<!--
 <h3 align="center">👩‍💻  🄰🄱🄾🅄🅃 🄼🄴</h3>
 
-<p align="left">𝐈𝐜𝐡 𝐛𝐢𝐧 𝐞𝐢𝐧 𝐚𝐮𝐟𝐬𝐭𝐫𝐞𝐛𝐞𝐧𝐝𝐞𝐫 𝐉𝐚𝐯𝐚-𝐄𝐧𝐭𝐰𝐢𝐜𝐤𝐥𝐞𝐫. 𝐌𝐞𝐢𝐧 𝐖𝐞𝐠 𝐳𝐮𝐫 𝐈𝐓 𝐛𝐞𝐠𝐚𝐧𝐧 𝐦𝐢𝐭 𝐝𝐞𝐫 𝐒𝐜𝐡𝐮𝐥𝐞. 𝐀𝐛 𝐒𝐞𝐩𝐭𝐞𝐦𝐛𝐞𝐫 𝟐𝟎𝟐𝟒 𝐬𝐭𝐮𝐝𝐢𝐞𝐫𝐞 𝐢𝐜𝐡 𝐚𝐧 𝐝𝐞𝐫 𝐇𝐨𝐜𝐡𝐬𝐜𝐡𝐮𝐥𝐞 𝐊𝐚𝐢𝐬𝐞𝐫𝐬𝐥𝐚𝐮𝐭𝐞𝐫𝐧, 𝐒𝐭𝐚𝐧𝐝𝐨𝐫𝐭 𝐙𝐰𝐞𝐢𝐛𝐫ü𝐜𝐤𝐞𝐧. 𝐈𝐦 𝐌𝐨𝐦𝐞𝐧𝐭 𝐥ä𝐮𝐟𝐭 𝐦𝐞𝐢𝐧𝐞 𝐀𝐮𝐬𝐛𝐢𝐥𝐝𝐮𝐧𝐠 𝐢𝐦 𝐊𝐮𝐫𝐬 𝐰𝐞𝐢𝐭𝐞𝐫. 𝐈𝐜𝐡 𝐰𝐞𝐫𝐝𝐞 𝐦𝐞𝐢𝐧𝐞 𝐏𝐞𝐭-𝐏𝐫𝐨𝐣𝐞𝐤𝐭𝐞 𝐭𝐞𝐢𝐥𝐞𝐧</p>
+<p align="left">Ich bin ein aufstrebender Java-Entwickler. Mein Weg zur IT begann mit der Schule.  Ab September 2024 studiere ich an der Hochschule Kaiserslautern, Standort Zweibrücken. Im Moment läuft meine Ausbildung im Kurs weiter. Ich werde meine Pet-Projekte teilen</p>
 
 ###
 
@@ -32,8 +32,8 @@
 </p>
 
 ###
-
-<h3 align="center">🛠 🅂🅃🄰🄲🄺</h3>
+-->
+<h3 align="center">🛠 STACK</h3>
 
 ###
 
@@ -55,15 +55,11 @@
 
 ###
 
-<h3 align="center">🔥   🄼🅈 🅂🅃🄰🅃🅂</h3>
+<h3 align="left">🔥MY STATS</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=tema-juck&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tema-juck&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tema-juck&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
 </div>
 
 ###
