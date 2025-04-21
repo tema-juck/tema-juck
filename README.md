@@ -24,7 +24,6 @@
 <h3 align="left">👩‍💻  About me</h3>
 
 ###
-
 <p align="left">Ich bin ein aufstrebender Java-Entwickler. Mein Weg zur IT begann mit der Schule.  Ab September 2024 studiere ich an der Hochschule Kaiserslautern, Standort Zweibrücken. Im Moment läuft meine Ausbildung im Kurs weiter. Ich werde meine Pet-Projekte teilen</p>
 
 ###
@@ -57,15 +56,16 @@
 
 ###
 
-<h3 align="left">🔥   My Stats</h3>
+<h3 align="center">🔥   My Stats</h3>
 
-<a href="http://www.github.com/tema-juck" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tema-juck&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="tema-juck's GitHub stats" />
-</a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tema-juck&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-<a href="https://github.com/tema-juck" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tema-juck&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tema-juck&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+</div>
 
 ###
 
