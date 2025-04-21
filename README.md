@@ -11,7 +11,7 @@ Java Junior Developer
     <img alt="Static Badge" src="https://img.shields.io/badge/telegram-passing_blue?style=for-the-badge&logo=telegram&logoColor=black&logoSize=auto&color=%2326A5E4">
   </a>
   
-  <a>
+  <a href="mailto:temajuck@icloud.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/MAIL-passing_blue?style=for-the-badge&logo=gmail&logoColor=%2331303A&logoSize=auto&color=%23EA4335">
   </a>
   
@@ -30,6 +30,11 @@ Java Junior Developer
     <img src="https://img.shields.io/github/followers/tema-juck?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
   </a>  
 </div>
+
+###
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ### Skills
 
