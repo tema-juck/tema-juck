@@ -21,7 +21,7 @@
 </div>
 
 
-<h2 align="center">👩‍💻  🄰🄱🄾🅄🅃 🄼🄴</h2>
+<h3 align="center">👩‍💻  🄰🄱🄾🅄🅃 🄼🄴</h3>
 
 <p align="left">𝐈𝐜𝐡 𝐛𝐢𝐧 𝐞𝐢𝐧 𝐚𝐮𝐟𝐬𝐭𝐫𝐞𝐛𝐞𝐧𝐝𝐞𝐫 𝐉𝐚𝐯𝐚-𝐄𝐧𝐭𝐰𝐢𝐜𝐤𝐥𝐞𝐫. 𝐌𝐞𝐢𝐧 𝐖𝐞𝐠 𝐳𝐮𝐫 𝐈𝐓 𝐛𝐞𝐠𝐚𝐧𝐧 𝐦𝐢𝐭 𝐝𝐞𝐫 𝐒𝐜𝐡𝐮𝐥𝐞. 𝐀𝐛 𝐒𝐞𝐩𝐭𝐞𝐦𝐛𝐞𝐫 𝟐𝟎𝟐𝟒 𝐬𝐭𝐮𝐝𝐢𝐞𝐫𝐞 𝐢𝐜𝐡 𝐚𝐧 𝐝𝐞𝐫 𝐇𝐨𝐜𝐡𝐬𝐜𝐡𝐮𝐥𝐞 𝐊𝐚𝐢𝐬𝐞𝐫𝐬𝐥𝐚𝐮𝐭𝐞𝐫𝐧, 𝐒𝐭𝐚𝐧𝐝𝐨𝐫𝐭 𝐙𝐰𝐞𝐢𝐛𝐫ü𝐜𝐤𝐞𝐧. 𝐈𝐦 𝐌𝐨𝐦𝐞𝐧𝐭 𝐥ä𝐮𝐟𝐭 𝐦𝐞𝐢𝐧𝐞 𝐀𝐮𝐬𝐛𝐢𝐥𝐝𝐮𝐧𝐠 𝐢𝐦 𝐊𝐮𝐫𝐬 𝐰𝐞𝐢𝐭𝐞𝐫. 𝐈𝐜𝐡 𝐰𝐞𝐫𝐝𝐞 𝐦𝐞𝐢𝐧𝐞 𝐏𝐞𝐭-𝐏𝐫𝐨𝐣𝐞𝐤𝐭𝐞 𝐭𝐞𝐢𝐥𝐞𝐧</p>
 
@@ -33,7 +33,7 @@
 
 ###
 
-<h2 align="center">🛠 🅂🅃🄰🄲🄺</h2>
+<h3 align="center">🛠 🅂🅃🄰🄲🄺</h3>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h2 align="center">🔥   🄼🅈 🅂🅃🄰🅃🅂</h2>
+<h3 align="center">🔥   🄼🅈 🅂🅃🄰🅃🅂</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=tema-juck&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
