@@ -28,7 +28,7 @@
   
   ### Programming Languages
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/8fbee69d-ac1f-4108-9355-4b29b6299daf" width="60" height="60" alt="Java" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   </a>
   
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -46,11 +46,11 @@
   
   ### Development Tools
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/537a1ebd-dbec-44e0-b1c0-f6c6b3c06725" width="60" height="60" alt="Git" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
   
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/eb7bc184-4b1e-43a2-8f5d-76bb070ddc89" width="60" height="60" alt="VS Code" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   </a>
   
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
