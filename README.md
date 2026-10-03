@@ -237,14 +237,6 @@ Public projects will appear here when they're ready.
 
 <div align="center">
 
-<a href="https://t.me/temajuck" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" />
-</a>
-
-<a href="mailto:temajuck@icloud.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
-</a>
-
 <a href="https://discord.com/users/303829693948231680" target="_blank">
   <img src="assets/discord.gif" width="52" alt="Discord" />
 </a>
