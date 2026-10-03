@@ -196,7 +196,7 @@ Public projects will appear here when they're ready.
 </a>
 
 <a href="https://discord.com/users/303829693948231680">
-  <img src="https://img.shields.io/badge/Discord-tema--juck-111827?style=for-the-badge&logo=discord&logoColor=5865F2">s
+  <img src="https://img.shields.io/badge/Discord-tema--juck-111827?style=for-the-badge&logo=discord&logoColor=5865F2">
 </a>
 
 <a href="https://www.instagram.com/temajuck">
